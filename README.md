@@ -3,15 +3,15 @@ Pokedex using Vuejs and GraphQL
 
 ### My learnings and relatability with React
 ```
-- [ ] Scoped styles to keep styling confined to component without conflicting with other classes. Styling is in the same file, so it is easier with shorter class names
-- [ ] Easy to use directives like v-model which can easily feed values to the template, React needed complex logic like if statements inside JSX
-- [ ] Vuex state management - mutations, actions, getters (Similarity to state management in React)
-- [ ] Infinite scrolling using v-inifinte-scroll logic which implements similar logic as Intersection API and observer. 
-- [ ] Understood lifecycle hooks via fixing Active/disabled of Tab/View and default settings for the same
-- [ ] Using computed() properties to speed up the application
-- [ ] Using global Event bus to communicate between components
-- [ ] Vue JS handles lazy loading at the route level of abstraction with the help of Webpack code splitting
-- [ ] GraphQL queries and mutations
+[x] Scoped styles to keep styling confined to component without conflicting with other classes. Styling is in the same file, so it is easier with shorter class names
+[ ] Easy to use directives like v-model which can easily feed values to the template, React needed complex logic like if statements inside JSX
+[ ] Vuex state management - mutations, actions, getters (Similarity to state management in React)
+[ ] Infinite scrolling using v-inifinte-scroll logic which implements similar logic as Intersection API and observer. 
+[ ] Understood lifecycle hooks via fixing Active/disabled of Tab/View and default settings for the same
+[ ] Using computed() properties to speed up the application
+[ ] Using global Event bus to communicate between components
+[ ] Vue JS handles lazy loading at the route level of abstraction with the help of Webpack code splitting
+[ ] GraphQL queries and mutations
 ```
 ### Challenges faced:
 ```
