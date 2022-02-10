@@ -35,7 +35,7 @@
     "eslint-plugin-vue": "^5.0.0",
     "graphql-tag": "^2.9.0",
     "lint-staged": "^8.1.5",
-    "node-sass": "^4.14.1",
+    "node-sass": "^7.0.0",
     "pretty-checkbox-vue": "^1.1.9",
     "sass": "^1.26.7",
     "sass-loader": "^8.0.0",
